@@ -1,11 +1,11 @@
-ConertCraze
+ConcertCraze
 -----
 
 ### Introduction
 
-Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.
+ConcertCraze is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.
 
-Your job is to build out the data models to power the API endpoints for the Fyyur site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on Fyyur.
+Your job is to build out the data models to power the API endpoints for the ConcertCraze site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on ConcertCraze.
 
 ### Overview
 
@@ -15,7 +15,7 @@ This app is nearly complete. It is only missing one thing… real data! While th
 * searching for venues and artists.
 * learning more about a specific artist or venue.
 
-We want Fyyur to be the next new platform that artists and musical venues can use to find each other, and discover new music shows. Let's make that happen!
+We want ConcertCraze to be the next new platform that artists and musical venues can use to find each other, and discover new music shows. Let's make that happen!
 
 ### Tech Stack
 
